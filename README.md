@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @weareorgan
 - 👀 A web studio specialized in web design and development, delivering visually stunning websites optimized for user engagement and performance. Our team crafts scalable, high-speed solutions designed to accelerate business growth and enhance digital presence.
 
 <!---
